@@ -11,7 +11,7 @@ Integrantes: Paul Saltos, Roberto Soto
 
 NRC: 5416
 
-Fecha: 08/062021
+Fecha: 08/06/2021
 
 INFORME DE TAREA Nro. 2
 
